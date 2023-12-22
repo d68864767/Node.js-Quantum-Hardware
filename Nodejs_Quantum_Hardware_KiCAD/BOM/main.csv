@@ -1,0 +1,27 @@
+name:$Nodejs_Quantum_Hardware_KiCAD/BOM/main.csv
+
+name:$Nodejs_Quantum_Hardware_KiCAD/BOM/main.csv
+
+# Main Bill of Materials (BOM) for Node.js Quantum Hardware KiCAD Project
+
+This file contains the main Bill of Materials (BOM) for the Node.js Quantum Hardware project. 
+
+## Description
+
+The BOM provides a detailed list of all the components used in the project, including their quantities, specifications, and supplier information. It is crucial for procurement and manufacturing processes.
+
+## Getting Started
+
+To view or edit this BOM, open it in any spreadsheet software like Microsoft Excel or Google Sheets. 
+
+## Version Control
+
+We use Git for version control. Please make sure to update tests as appropriate.
+
+## Backups
+
+Regular backups of the BOM files are stored in the Backups directory.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
